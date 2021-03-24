@@ -9,9 +9,9 @@ obs.:
 ** vai criar um arquivo chamado, package .json
 ** caso seu arquivo já tenha, não precisa instalar s2
 
->>Verificar os plugins, tem que ter o NUNJUCKS s2
+>> Verificar os plugins, tem que ter o NUNJUCKS s2
 
->>Instalar uma biblioteca
+>> Instalar uma biblioteca
 
 digitar no terminal:
 npm install express
