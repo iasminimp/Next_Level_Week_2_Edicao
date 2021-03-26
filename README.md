@@ -1,6 +1,6 @@
 # Next_Level_Week_2_Edicao
 
->> Primeiro baixar no terminal (em modo bash):
+> Primeiro baixar no terminal (em modo bash):
 
 digitar no terminal: 
 npm init -y
@@ -9,9 +9,9 @@ obs.:
 ** vai criar um arquivo chamado, package .json
 ** caso seu arquivo já tenha, não precisa instalar s2
 
->> Verificar os plugins, tem que ter o NUNJUCKS s2
+> Verificar os plugins, tem que ter o NUNJUCKS s2
 
->> Instalar uma biblioteca
+> Instalar uma biblioteca
 
 digitar no terminal:
 npm install express
@@ -20,7 +20,7 @@ npm install express
 +ela serve pra fazer o mapeamento de algumas aplicações, com ajuda das bibliotecas(node-modules)
 
 
->>Verifica no terminal
+> Verifica no terminal
 
 digitar no terminal:
 node src/server.js
@@ -29,7 +29,7 @@ node src/server.js
 *** no caso da NLW #1, a porta é: 3000;
 *** no caso da NLW #2, a porta é: 5500;
 
->>>>>Add atalho, para iniciar o servidor
+> Add atalho, para iniciar o servidor
 
 digitar no terminal:
 npm install nodemon -D
