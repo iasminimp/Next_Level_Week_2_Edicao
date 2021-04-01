@@ -39,7 +39,7 @@ npm install nodemon -D
 *** no caso da NLW #2, o nome é: dev;
 
 
->>>>> então no terminal, basta digitar:
+>> então no terminal, basta digitar:
 npm run (nome do atalho)
 
 *****NLW #1, o atalho é: 
