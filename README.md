@@ -45,6 +45,6 @@ npm run (nome do atalho)
 *****NLW #1, o atalho é: 
 npm run start
 
-*****NLW #2, o atalho é: 
+***NLW #2, o atalho é: 
 npm run dev
 
